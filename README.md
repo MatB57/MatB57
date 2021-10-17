@@ -1,11 +1,14 @@
-<h2>Bruh</h2>
-- 👋 Hi, I’m @MatB57
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<center>
+  <h1>Hi guy'</h1>
+const MatB57 = {
+    Age: 16,
+    Description: "Hello ! My name is MatB57 and I am a developer! I am often on the internet...",
+    Friends: Too Much,
+    KnownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Python", "Pascal"],
+    FavouriteThings: ["GitHub", "VS Code", "Vodka"]
+};
+👨‍🎓 Grade 10 at IPET Nivelles on IT learning
+👨‍💻 Developper of many languages
+💻 System Administrator of AffairesPC.com
+</center>
 
-<!---
-MatB57/MatB57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
