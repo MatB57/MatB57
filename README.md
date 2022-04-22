@@ -14,10 +14,10 @@ require('dotenv').config();
 ```.env
 'preview of .env file'
 
-BOT_AGE = 16
-NAME_OF_STUDIES = Grade 10 at IPET Nivelles on IT and Logical learning
+BOT_AGE = 17
+NAME_OF_STUDIES = Grade 9 at IPET Nivelles on IT and Logical learning
 FIRST_HALF_JOB = System Administrator of AffairesPC.com
-HOBBIES = Programming or Playing VideosGames or Walk Around
+HOBBIES = Programming, Learn new languages and Think about the logical of a project
 ACCESS_TOKEN = kindness and help
 
 ```
