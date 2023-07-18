@@ -15,7 +15,6 @@ require('dotenv').config();
 
 BOT_AGE = 17
 NAME_OF_STUDIES = Grade 9 at IPET Nivelles on IT and Logical learning
-FIRST_HALF_JOB = System Administrator of AffairesPC.com
 HOBBIES = Programming, Learn new languages and Think about the logical of a project
 ACCESS_TOKEN = kindness and help
 
