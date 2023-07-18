@@ -14,9 +14,12 @@ require('dotenv').config();
 'preview of .env file'
 
 BOT_AGE = 17
-NAME_OF_STUDIES = Grade 9 at IPET Nivelles on IT and Logical learning
-HOBBIES = Programming, Learn new languages and Think about the logical of a project
-ACCESS_TOKEN = kindness and help
+NAME_OF_STUDIES = Student at IPET Nivelles on IT and Logical learning (1 year left)
+WORK_ON = - Some websites for companies in need 
+          - My first mobile app, all-in-one personnal notes app
+          - Freelance to help some people to fix their problems with IT
+HOBBIES = Programming, Learn new languages and Thinking about new projects and how to make it
+ACCESS_TOKEN = kindness and helpful
 
 ```
 
