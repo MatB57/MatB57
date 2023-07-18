@@ -1,6 +1,5 @@
 <h1 align="center">Hi!</h1>
 <p align="center">My name is <u><b>Matthias</b></u> nicknamed <u><b>MatB57</b></u>
-<br>I'm a <b>developer</b> and the System Administrator of <u>AffairesPC.com</u>, a second-hand hardware ad website
 <br>I develop and learn several languages such as: <b>HTML, CSS, JavaScript, PHP & Python</b>.</p>
 
 ```js
