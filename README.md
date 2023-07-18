@@ -2,7 +2,7 @@
 <p align="center">My name is <u><b>Matthias</b></u> nicknamed <u><b>MatB57</b></u>
 <br>I develop and learn several languages such as: <b>HTML, CSS, JavaScript, PHP & Python</b>.
 <br>Working on <b>FlutterFlow</b> to build my first mobile app
-<br>Translating the <a href="https://docs.buildwiththeta.com/en"> in <b><u>French</u></b>
+<br>Translating the <a href="https://docs.buildwiththeta.com/en">Build with Theta DOCS</a> in <b><u>French</u></b>
 
 ```js
 const life = require('./config')
